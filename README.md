@@ -1,6 +1,6 @@
 # pollyanna
 
-Use MuseScore 3.6.2.
+Use MuseScore 3.6.2. Export files as .mscx, not .mscz.
 
 I believe the morning sun always gonna shine again and
 
