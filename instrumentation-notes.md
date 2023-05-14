@@ -5,12 +5,11 @@ Please fill out and update as needed!
 - Grace
 - Max
 - Clair (only if other people are also singing at the same time)
-- Please fill out if more
+- Jasmine
 
 ## Instruments:
 - Violins
     - Elise
-    - Jasmine
     - Joyce
     - Kevin
     - Jihu
