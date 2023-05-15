@@ -6,6 +6,7 @@ Please fill out and update as needed!
 - Max
 - Clair (only if other people are also singing at the same time)
 - Jasmine
+- Julia
 
 ## Instruments:
 - Violins
@@ -18,8 +19,6 @@ Please fill out and update as needed!
     - Bethany
 - Electric Bass
     - Bryan
-- Flutes
-    - Julia
 - Clarinet/EWI
     - Alex
 - Piano
